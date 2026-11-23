@@ -1,4 +1,0 @@
-/home/MC/Embed/FOCtest/User_driver/delay.c:5:6:Delay_Init	4	static
-/home/MC/Embed/FOCtest/User_driver/delay.c:18:6:delay_us	24	static
-/home/MC/Embed/FOCtest/User_driver/delay.c:28:6:delay_ms	16	static
-/home/MC/Embed/FOCtest/User_driver/delay.c:35:10:micros	4	static

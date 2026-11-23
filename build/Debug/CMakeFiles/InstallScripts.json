@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/MC/Embed/FOCtest/build/Debug/cmake_install.cmake",
-		"/home/MC/Embed/FOCtest/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

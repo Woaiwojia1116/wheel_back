@@ -1,4 +1,0 @@
-/home/MC/Embed/FOCtest/User_driver/foc_utils.c:17:7:_sin	16	static
-/home/MC/Embed/FOCtest/User_driver/foc_utils.c:42:7:_cos	24	static
-/home/MC/Embed/FOCtest/User_driver/foc_utils.c:51:7:_normalizeAngle	24	static
-/home/MC/Embed/FOCtest/User_driver/foc_utils.c:61:7:_sqrtApprox	24	static

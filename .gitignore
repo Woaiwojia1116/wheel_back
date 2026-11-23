@@ -1,0 +1,51 @@
+# ==========================================================
+# STM32 / CMake 嵌入式工程忽略规则
+# 原则：只提交源代码与必要配置，编译产物一律不入库
+# ==========================================================
+
+# ---------- 构建输出目录 ----------
+/build/
+/Build/
+/cmake-build-*/
+/out/
+
+# ---------- CMake / Ninja 生成文件 ----------
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+build.ninja
+.ninja_deps
+.ninja_log
+CMakeUserPresets.json
+
+# ---------- 编译中间产物 ----------
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.su
+*.d
+*.a
+*.lib
+*.lst
+*.srec
+*.crun
+*.dep
+*.cdb
+
+# ---------- 传统 IDE 构建目录 ----------
+/Debug/
+/Release/
+/Listings/
+/Objects/
+.settings/
+
+# ---------- 编辑器 / 系统临时文件 ----------
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
