@@ -1,0 +1,8 @@
+/home/MC/Embed/FOCtest/User_driver/MagneticSensor.c:23:16:I2C_getRawCount	32	static
+/home/MC/Embed/FOCtest/User_driver/MagneticSensor.c:37:6:MagneticSensor_Init	8	static
+/home/MC/Embed/FOCtest/User_driver/MagneticSensor.c:58:7:getAngle	32	static
+/home/MC/Embed/FOCtest/User_driver/MagneticSensor.c:88:7:getVelocity	32	static
+/home/MC/Embed/FOCtest/User_driver/MagneticSensor.c:127:16:HI2C_getRawCount	32	static
+/home/MC/Embed/FOCtest/User_driver/MagneticSensor.c:141:5:MagneticSensor_HI2C_Init	16	static
+/home/MC/Embed/FOCtest/User_driver/MagneticSensor.c:162:7:HI2C_getAngle	24	static
+/home/MC/Embed/FOCtest/User_driver/MagneticSensor.c:188:7:HI2C_getVelocity	32	static

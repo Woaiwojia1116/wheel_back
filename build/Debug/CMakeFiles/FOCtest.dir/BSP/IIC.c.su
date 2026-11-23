@@ -1,0 +1,11 @@
+/home/MC/Embed/FOCtest/BSP/IIC.c:17:13:SCL_OUT	32	static
+/home/MC/Embed/FOCtest/BSP/IIC.c:27:13:SDA_OUT	32	static
+/home/MC/Embed/FOCtest/BSP/IIC.c:37:13:SDA_IN	32	static
+/home/MC/Embed/FOCtest/BSP/IIC.c:47:20:i2c_delay	8	static
+/home/MC/Embed/FOCtest/BSP/IIC.c:53:6:IIC_Init	24	static
+/home/MC/Embed/FOCtest/BSP/IIC.c:67:6:IIC_Start	16	static
+/home/MC/Embed/FOCtest/BSP/IIC.c:75:6:IIC_Stop	16	static
+/home/MC/Embed/FOCtest/BSP/IIC.c:85:9:IIC_SendByte	24	static
+/home/MC/Embed/FOCtest/BSP/IIC.c:106:9:IIC_ReadByte	24	static
+/home/MC/Embed/FOCtest/BSP/IIC.c:127:9:IIC_WriteReg	24	static
+/home/MC/Embed/FOCtest/BSP/IIC.c:141:9:IIC_ReadRegs	40	static

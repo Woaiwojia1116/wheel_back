@@ -1,0 +1,59 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library"
+		],
+		"files" : 
+		[
+			"cmake/stm32cubemx/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 70,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 12
+	},
+	"id" : "stm32cubemx::@768a070a0fe75716b479",
+	"interfaceIncludes" : 
+	[
+		{
+			"path" : "/home/MC/Embed/FOCtest/cmake/stm32cubemx/../../Core/Inc"
+		},
+		{
+			"path" : "/home/MC/Embed/FOCtest/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc"
+		},
+		{
+			"path" : "/home/MC/Embed/FOCtest/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
+		},
+		{
+			"path" : "/home/MC/Embed/FOCtest/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include"
+		},
+		{
+			"path" : "/home/MC/Embed/FOCtest/cmake/stm32cubemx/../../Drivers/CMSIS/Include"
+		}
+	],
+	"name" : "stm32cubemx",
+	"paths" : 
+	{
+		"build" : "cmake/stm32cubemx",
+		"source" : "cmake/stm32cubemx"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}
